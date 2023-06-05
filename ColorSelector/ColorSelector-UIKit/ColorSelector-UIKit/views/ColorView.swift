@@ -17,7 +17,6 @@ class ColorView: UIView {
     
     override init(frame: CGRect) {
         super.init(frame: frame)
-        self.backgroundColor = color
     }
     
     required init?(coder: NSCoder) {
