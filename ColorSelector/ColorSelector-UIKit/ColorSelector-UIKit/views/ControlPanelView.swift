@@ -61,7 +61,10 @@ class ControlPanelView: UIView {
         // Setup Constraints
         NSLayoutConstraint.activate([
             segmentedControl.centerXAnchor.constraint(equalTo: self.centerXAnchor),
-            segmentedControl.centerYAnchor.constraint(equalTo: self.centerYAnchor)
+            segmentedControl.centerYAnchor.constraint(equalTo: self.centerYAnchor),
+            segmentedControl.leadingAnchor.constraint(equalTo: self.safeAreaLayoutGuide.leadingAnchor, constant: 16),
+            segmentedControl.trailingAnchor.constraint(equalTo: self.safeAreaLayoutGuide.trailingAnchor, constant: -16)
         ])
     }
+
 }
