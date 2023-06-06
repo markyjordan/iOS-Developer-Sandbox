@@ -23,7 +23,7 @@ Learn iOS fundamentals, including standard view objects, frameworks, design patt
   </tr>
   <tr>
     <td>Singleton</td>
-    <td></td>
+    <td><a href="https://developer.apple.com/documentation/swift/managing-a-shared-resource-using-a-singleton">Managing a Shared Resource Using a Singleton</a></td>
     <td></td>
   </tr>
 </table>
