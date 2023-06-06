@@ -9,7 +9,7 @@ Learn iOS fundamentals, including standard view objects, frameworks, design patt
   <tr>
     <th>Pattern</th>
     <th>Reference</th>
-    <th>Project(s)</th>
+    <th>App(s) / Code Snippets</th>
   </tr>
   <tr>
     <td>Observer</td>
