@@ -7,22 +7,22 @@ Learn iOS fundamentals, including standard view objects, frameworks, design patt
 
 <table>
   <tr>
-    <th>Column header 1: Pattern</th>
-    <th>Column header 2: Reference</th>
-    <th>Column header 3: Project(s)</th>
+    <th>Pattern</th>
+    <th>Reference</th>
+    <th>Project(s)</th>
   </tr>
   <tr>
-    <td>Row 1, Column 1: Observer</td>
+    <td>Observer</td>
     <td><a href="https://developer.apple.com/documentation/swift/using-key-value-observing-in-swift">Using Key-Value Observing in Swift</a></td>
     <td><a href="/ColorSelector">ColorSelector</a></td>
   </tr>
   <tr>
-    <td>Row 2, Column 1: Delegate</td>
+    <td>Delegate</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Row 3, Column 1: Singleton</td>
+    <td>Singleton</td>
     <td></td>
     <td></td>
   </tr>
