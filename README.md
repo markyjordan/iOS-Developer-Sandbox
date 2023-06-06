@@ -14,12 +14,12 @@ Learn iOS fundamentals, including standard view objects, frameworks, design patt
   <tr>
     <td>Observer</td>
     <td><a href="https://developer.apple.com/documentation/swift/using-key-value-observing-in-swift">Using Key-Value Observing in Swift</a></td>
-    <td><a href="/ColorSelector">ColorSelector</a></td>
+    <td></td>
   </tr>
   <tr>
     <td>Delegate</td>
-    <td></td>
-    <td></td>
+    <td><a href="https://developer.apple.com/documentation/swift/using-delegates-to-customize-object-behavior">Using Delegates to Customize Object Behavior</a></td>
+    <td><a href="/ColorSelector">ColorSelector</a></td>
   </tr>
   <tr>
     <td>Singleton</td>
